@@ -4,7 +4,7 @@
 ## Preview
 
 <h1 align="center">
-  <img alt="MataMosquito" title="#MataMosquito" src="https://i.ibb.co/XJxyjDL/Screenshot-from-2021-08-12-15-44-39.png" />
+  <img alt="stardev" title="#stardev" src="https://i.ibb.co/XJxyjDL/Screenshot-from-2021-08-12-15-44-39.png" />
 </h1>
 
 ## 💻 Project
